@@ -40,6 +40,20 @@ adb shell pm enable com.oculus.os.logcollector
 adb shell pm enable com.oculus.appsafety
 ```
 
+## Disable Updates
+**Disable:**
+<br />
+
+```
+adb shell pm disable --user 0 com.oculus.updater
+```
+<br />
+
+**Enable:**
+```
+adb shell pm enable --user 0 com.oculus.updater
+```
+
 ## Ban Evading
 1. Disconnect from wifi on quest
 2. Sideload AndroidIDeditorV2 and follow the instructions to spoof
