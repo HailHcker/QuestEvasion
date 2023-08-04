@@ -34,6 +34,7 @@ Note: you might need to use a vpn
 2. Select hurts 
 <br />
 **ADB:**
+<br />
 ```
 adb shell settings put system vr_mode_refresh_rate <HZ>
 adb reboot
