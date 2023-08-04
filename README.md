@@ -4,7 +4,7 @@
 3. Open Oculess
 4. Click the "Background Audio For All" button
 5. Load Spotify
-/nNote: You will have to do this everytime after a restart
+<br /> Note: You will have to do this everytime after a restart
 
 # Disable Oculus Servers
 1. Sideload Oculess
