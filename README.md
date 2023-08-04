@@ -111,6 +111,10 @@ brew install android-platform-tools
 adb devices //Check if your oculus is connected
 adb connect <YOUR LOCAL IP>
 ```
+
+#### Downgrading
+https://github.com/basti564/DownQuest
+
 #### Music
 https://m.apkpure.com/spotify-music-i/com.spotify.music
 
