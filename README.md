@@ -77,6 +77,20 @@ LOWER THEN 60HZ:
 adb shell setprop debug.oculus.swapInterval 4
 ```
 
+## Modding
+There are many ways to mod on quest, but the two main ones are:
+1. Quest Patcher
+2. Lemon Loader
+Basically the only difference in the two are the languages you make them in. QP being C++ and LL being C#
+<br />
+
+**Quest Patcher:**
+There are not very many resources, and the ones that exist are pretty [bad](https://github.com/Lauriethefish). But The [BeatSaber modding group](https://discord.com/invite/beatsabermods) is about as good as your going to get.
+<br />
+
+**Lemon Loader:**
+Lemon Loader is a lot better in my opinon, as its just easier to use. There are many videos of [how to install lemon loader](https://www.youtube.com/watch?v=v2BhWfnzwm4), there are also many resources to [make mods](https://mod.io/g/bonelab/r/lemon-loader-mods-quest-code-mods)
+
 # Resources
 #### Evasion:
 https://github.com/basti564/Oculess
