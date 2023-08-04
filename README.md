@@ -35,13 +35,11 @@ Note: you might need to use a vpn
 <br />
 **ADB:**
 <br />
-```
 adb shell settings put system vr_mode_refresh_rate <HZ>
 adb reboot
 
 LOWER THEN 60HZ:
 adb shell setprop debug.oculus.swapInterval 4
-```
 
 # Resources
 #### Evasion:
