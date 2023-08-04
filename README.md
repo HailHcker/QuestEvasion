@@ -65,7 +65,7 @@ Note: you might need to use a vpn
 ## HZ
 **Sidequest:**
 1. Click the crow bar at the top left
-2. Select hurts 
+2. Select hz
 <br />
 
 **ADB:**
