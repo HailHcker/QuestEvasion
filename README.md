@@ -109,7 +109,8 @@ https://github.com/basti564/Oculess
 https://github.com/sdex/AndroidIDeditorV2
 #### Sideloading
 https://sidequestvr.com <br />
-https://wiki.vrpirates.club/
+https://wiki.vrpirates.club/ <br />
+https://oculusdb.rui2015.me/
 ```
 adb install file.apk
 ```
