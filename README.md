@@ -58,7 +58,6 @@ adb shell pm enable --user 0 com.oculus.updater
 **Not Tested Will Be Updated As We Go**
 1. Sideload AndroidIDeditorV2 and follow the instructions to spoof
 <br />
-
 Note: you might need to use a vpn
 <br />
 
