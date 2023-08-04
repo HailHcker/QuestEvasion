@@ -128,8 +128,14 @@ adb connect <YOUR LOCAL IP>
 #### Downgrading
 https://github.com/basti564/DownQuest
 
-#### Music
-https://m.apkpure.com/spotify-music-i/com.spotify.music
+#### Modding
+https://github.com/LemonLoader/MelonLoader <br />
+https://www.youtube.com/watch?v=v2BhWfnzwm4 <br />
+https://mod.io/g/bonelab/r/lemon-loader-mods-quest-code-mods <br /> <br />
+
+https://github.com/Lauriethefish/QuestPatcher <br />
+https://github.com/danrouse/beatsaber-quest-modding-guide <br />
+https://discord.com/invite/beatsabermods
 
 # Credits
 Big thanks to [@basti564](https://github.com/basti564) alot of this github is a compiled source from them.
