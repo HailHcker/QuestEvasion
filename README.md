@@ -56,10 +56,7 @@ adb shell pm enable --user 0 com.oculus.updater
 
 ## Ban Evading
 **Not Tested Will Be Updated As We Go**
-1. Disconnect from wifi on quest
-2. Sideload AndroidIDeditorV2 and follow the instructions to spoof
-3. Make a new oculus account
-4. Connect Back to wifi
+1. Sideload AndroidIDeditorV2 and follow the instructions to spoof
 <br />
 Note: you might need to use a vpn
 
