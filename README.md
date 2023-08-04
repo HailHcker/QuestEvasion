@@ -18,6 +18,6 @@ Note: You will have to do this everytime after a restart
    
 # Resources
 ### Oculess:
-https://github.com/basti564/Oculess <img src="https://user-images.githubusercontent.com/12588584/256977392-22a19a1d-9300-4812-82a7-b5190de74af0.png" width="228"/>
+https://github.com/basti564/Oculess
 ### Spotify
 https://m.apkpure.com/spotify-music-i/com.spotify.music
