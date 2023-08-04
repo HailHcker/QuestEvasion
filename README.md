@@ -115,4 +115,4 @@ adb connect <YOUR LOCAL IP>
 https://m.apkpure.com/spotify-music-i/com.spotify.music
 
 # Credits
-Big thanks to @basti564 alot of this github is a compiled source from them.
+Big thanks to [@basti564](https://github.com/basti564) alot of this github is a compiled source from them.
