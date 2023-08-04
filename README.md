@@ -32,7 +32,7 @@ https://github.com/basti564/Oculess
 #### Spoofers
 https://github.com/sdex/AndroidIDeditorV2
 #### Sideloading
-https://sidequestvr.com
+https://sidequestvr.com <br />
 https://wiki.vrpirates.club/
 #### ADB
 ###### WINDOWS
