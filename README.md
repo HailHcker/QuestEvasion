@@ -1,5 +1,4 @@
-# YOU WILL NEED DEVELOPER MODE
-https://www.youtube.com/watch?v=jB1gwgSpU3E
+# YOU WILL NEED [DEVELOPER MODE](https://www.youtube.com/watch?v=jB1gwgSpU3E)
 
 ## Listening To Music
 1. Sideload Spotify
