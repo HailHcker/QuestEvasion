@@ -100,7 +100,7 @@ since this locks all oculus features including the library, in theory you can us
 5. Run the application ```adb shell am start -n com.package.name/.ActivityName```
 <br />
 
-To install new games you could use something like [OculusDB](https://oculusdb.rui2015.me/) to get the APK, then sideload it ```adb install file.apk```
+To install new games you could use something like [OculusDB](https://oculusdb.rui2015.me/) to get the APK, then sideload it.
 
 # Resources
 #### Evasion:
