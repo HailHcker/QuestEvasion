@@ -58,7 +58,11 @@ adb shell pm enable --user 0 com.oculus.updater
 **Not Tested Will Be Updated As We Go**
 1. Sideload AndroidIDeditorV2 and follow the instructions to spoof
 <br />
+
 Note: you might need to use a vpn
+<br />
+
+In theory you could mod the game, and simply remove the part that hwid bans you or contacts servers. EX: with Gorilla Tag, you can harmony patch SendDeviceInfo which then prevents sending your info to Playfab bypassing hardware bans.
 
 ## HZ
 **Sidequest:**
