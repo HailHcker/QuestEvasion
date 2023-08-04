@@ -34,6 +34,9 @@ https://github.com/sdex/AndroidIDeditorV2
 #### Sideloading
 https://sidequestvr.com <br />
 https://wiki.vrpirates.club/
+```
+adb install file.apk
+```
 #### ADB
 ###### WINDOWS
 ```
