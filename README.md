@@ -3,8 +3,8 @@
 2. Sideload Oculess
 3. Open Oculess
 4. Click the "Background Audio For All" button
-5. Load Spotify
-<br /> Note: You will have to do this everytime after a restart
+5. Load Spotify <br />
+Note: You will have to do this everytime after a restart
 
 # Disable Oculus Servers
 1. Sideload Oculess
@@ -20,7 +20,7 @@
 1. Disconnect from wifi on quest
 2. Sideload AndroidIDeditorV2 and follow the instructions to spoof
 3. Make a new oculus account
-4. Connect Back to wifi
+4. Connect Back to wifi <br />
 Note: you might need to use a vpn
    
 # Resources
