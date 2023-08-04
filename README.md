@@ -97,7 +97,7 @@ Lemon Loader is a lot better in my opinon, as its just easier to use. There are 
 3. Disable Updates ```adb shell pm disable --user 0 com.oculus.updater```
 <br />
 
-since this locks all oculus features including the library, in theory you can use ADB commands to open any app. And any app that **doesnt** use Oculus API can be played just fine.
+since this locks all oculus features including the library, in theory you can use ADB commands to open any app. And any app that **doesnt** use Oculus API can be played just fine IN THEORY.
 
 4. Get the application you want to run ```adb shell list packages```
 5. Run the application ```adb shell am start -n com.package.name/.ActivityName```
