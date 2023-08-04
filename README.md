@@ -19,6 +19,26 @@ Note: You will have to do this everytime after a restart
 1. Sideload Oculess
 2. Open Oculess
 3. Click the "Disable/Enable Telementary Apps" button
+<br />
+**ADB:**
+```
+DISABLE:
+adb shell pm disable com.oculus.unifiedtelemetry
+adb shell pm disable com.oculus.gatekeeperservice
+adb shell pm disable com.oculus.notification_proxy
+adb shell pm disable com.oculus.bugreporter
+adb shell pm disable com.oculus.os.logcollector
+adb shell pm disable com.oculus.appsafety
+
+ENABLE:
+adb shell pm enable com.oculus.unifiedtelemetry
+adb shell pm enable com.oculus.gatekeeperservice
+adb shell pm enable com.oculus.notification_proxy
+adb shell pm enable com.oculus.bugreporter
+adb shell pm enable com.oculus.os.logcollector
+adb shell pm enable com.oculus.appsafety
+```
+
 
 ## Ban Evading
 1. Disconnect from wifi on quest
