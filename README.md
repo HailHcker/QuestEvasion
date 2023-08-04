@@ -91,6 +91,17 @@ There are not very many resources, and the ones that exist are pretty [bad](http
 **Lemon Loader:**
 Lemon Loader is a lot better in my opinon, as its just easier to use. There are many videos of [how to install lemon loader](https://www.youtube.com/watch?v=v2BhWfnzwm4), there are also many resources to [make mods](https://mod.io/g/bonelab/r/lemon-loader-mods-quest-code-mods)
 
+# Theory For Bypassing Oculus (NOT TESTED)
+1. Sideload Oculess
+2. Disable Oculus Companion Server
+3. Disable Updates ```adb shell pm disable --user 0 com.oculus.updater```
+<br />
+
+since this locks all oculus features including the library, in theory you can use ADB commands to open any app. And any app that **doesnt** use Oculus API can be played just fine.
+
+4. Get the application you want to run ```adb shell list packages```
+5. Run the application ```adb shell am start -n com.package.name/.ActivityName```
+
 # Resources
 #### Evasion:
 https://github.com/basti564/Oculess
