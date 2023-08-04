@@ -83,9 +83,6 @@ There are many ways to mod on quest, but the two main ones are:
 2. Lemon Loader
 <br />
 
-Basically the only difference in the two are the languages you make them in. QP being C++ and LL being C#
-<br />
-
 **Quest Patcher:**
 There are not very many resources, and the ones that exist are pretty [bad](https://github.com/Lauriethefish). But The [BeatSaber modding group](https://discord.com/invite/beatsabermods) is about as good as your going to get.
 <br />
