@@ -20,13 +20,42 @@
 1. Disconnect from wifi on quest
 2. Sideload AndroidIDeditorV2 and follow the instructions to spoof
 3. Make a new oculus account
-4. Connect Back to wifi <br />
+4. Connect Back to wifi
 <br /> Note: you might need to use a vpn
+
+# HZ
+Use something like sidequest
    
 # Resources
-### Oculess:
+### Evasion:
 https://github.com/basti564/Oculess
-### Spotify
-https://m.apkpure.com/spotify-music-i/com.spotify.music
 ### Spoofers
 https://github.com/sdex/AndroidIDeditorV2
+### Sideloading
+https://sidequestvr.com
+https://wiki.vrpirates.club/
+### ADB
+#### WINDOWS
+```
+install ADB:
+https://dl.google.com/android/repository/platform-tools-latest-windows.zip
+
+CD <DIR>
+
+adb devices //Check if your oculus is connected
+adb connect <YOUR LOCAL IP>
+```
+#### LINUX
+```
+sudo apt-get install android-tools-adb
+adb devices //Check if your oculus is connected
+adb connect <YOUR LOCAL IP>
+```
+#### MAC
+```
+brew install android-platform-tools
+adb devices //Check if your oculus is connected
+adb connect <YOUR LOCAL IP>
+```
+### Music
+https://m.apkpure.com/spotify-music-i/com.spotify.music
