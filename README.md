@@ -27,15 +27,15 @@
 Use something like sidequest
    
 # Resources
-### Evasion:
+#### Evasion:
 https://github.com/basti564/Oculess
-### Spoofers
+#### Spoofers
 https://github.com/sdex/AndroidIDeditorV2
-### Sideloading
+#### Sideloading
 https://sidequestvr.com
 https://wiki.vrpirates.club/
-### ADB
-#### WINDOWS
+#### ADB
+###### WINDOWS
 ```
 install ADB:
 https://dl.google.com/android/repository/platform-tools-latest-windows.zip
@@ -45,17 +45,17 @@ CD <DIR>
 adb devices //Check if your oculus is connected
 adb connect <YOUR LOCAL IP>
 ```
-#### LINUX
+###### LINUX
 ```
 sudo apt-get install android-tools-adb
 adb devices //Check if your oculus is connected
 adb connect <YOUR LOCAL IP>
 ```
-#### MAC
+###### MAC
 ```
 brew install android-platform-tools
 adb devices //Check if your oculus is connected
 adb connect <YOUR LOCAL IP>
 ```
-### Music
+#### Music
 https://m.apkpure.com/spotify-music-i/com.spotify.music
